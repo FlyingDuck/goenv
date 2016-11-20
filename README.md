@@ -18,5 +18,11 @@
   ```
   $ deactive
   ```
-  
+4. 回到工作空间根目录：  
+   ```
+   $ goback
+   ```
+   
 ![用法](http://upload-images.jianshu.io/upload_images/1366868-6b818bd89523fa6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![goback](http://upload-images.jianshu.io/upload_images/1366868-d0d29f25f09b8c6e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
